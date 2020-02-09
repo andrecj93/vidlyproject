@@ -1,4 +1,4 @@
-# Video Rentals Application DEMO
+# Video Rentals Application
 
 This project was done to explore the fundamentals of ASP.NET & ASP.NET MVC & ASP.NET WEB API.
 
